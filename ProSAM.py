@@ -12,7 +12,7 @@ std_dev=0.1
 sigma=100
 kappa=1
 sample_num=7000
-test_num=3000
+test_num=300
 
 
 
